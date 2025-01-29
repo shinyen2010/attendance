@@ -52,6 +52,7 @@ th,td {
     padding: 7px;
     text-align: center;
     width: 100px;
+    background-color: lightslategray;
 }
 
 .reset {
